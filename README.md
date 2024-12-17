@@ -26,7 +26,7 @@ This project involves analyzing sales and profit data from a Superstore dataset.
 
 ## 📂 Dataset  
 - **Name**: Superstore Sales Dataset  
-- **Source**: [Link to dataset source, if applicable]  
+- **Source**: [https://www.kaggle.com/datasets/vivek468/superstore-dataset-final ]  
 - **Description**: Contains information about sales, profits, discounts, and regions for various products.
 
 ---
