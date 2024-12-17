@@ -65,13 +65,7 @@ Add interactive dashboards using Streamlit or Dash.
 👤 Author
 sami ibrahim
 LinkedIn: www.linkedin.com/in/samy-abo-aleneen-a52422243
-🌟 Acknowledgments
 Special thanks to [(https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)] for providing the dataset.
 
-🤝 Contributions
-Contributions are welcome! If you'd like to contribute:
 
-Fork the repository
-Create a new branch
-Submit a pull request
 
